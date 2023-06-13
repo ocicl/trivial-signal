@@ -1,0 +1,10 @@
+* trivial-signal
+
+UNIX signal handling library for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/trivial-signal.git   |
+| commit  | bd123bf  |
+| systems | trivial-signal |
+|---------+-------------------------------------------|
+
